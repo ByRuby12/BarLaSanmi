@@ -2,8 +2,8 @@
   "nombreBar": "Bar La Sanmi",
   "direccion": "C. de Anoeta, 25, Villaverde, 28041 Madrid",
   "telefono": "643894762",
-  "email": "sanmiguelvillaverde@gmail.com",
-  "horario": "Lunes a Sabados: 7:00 - 00:00 <br>⏰ Domingos: 8:00 - 15:00",
+  "email": "",
+  "horario": "Lunes a Sabados: 7:00 - 00:00 <br>⏰ Domingos: Cerrado",
   "enlaceGoogleMaps": "https://maps.app.goo.gl/9rUVNHGzPRTrUr8g6",
   "logo": "imagenes/logo-bar.png",
   "banner": "imagenes/banner-bar.png",
@@ -17,7 +17,7 @@
     "twitter": "#",
     "tiktok": "#",
     "youtube": "#",
-    "instagram": "#",
+    "instagram": "https://www.instagram.com/barsanmiguel2022",
     "facebook": "https://www.facebook.com/terrazasanmiguel"
   },
   "colores": {
@@ -142,4 +142,5 @@
   "color-galeria-modal-bg":  "#000000D9",
   "color-galeria-modal-contador-bg": "#00000073"
   }
+
 }
