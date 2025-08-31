@@ -28,7 +28,7 @@
       { "nombre": "Alitas Fritas", "descripcion": "Jugosas alitas de pollo fritas con toque especiado.", "precio": "8,50€", "alergenos": ["free-alergenos"] },
       { "nombre": "Oreja a la plancha", "descripcion": "Oreja de cerdo a la plancha, tierna y dorada.", "precio": "9,00€", "alergenos": ["free-alergenos"] },
       { "nombre": "Croquetas caseras", "descripcion": "Croquetas cremosas de jamón elaboradas de forma artesanal.", "precio": "9,00€", "alergenos": ["gluten", "lacteos", "huevos"] },
-      { "nombre": "Tabla de Queso", "descripcion": "Selección de quesos variados para compartir.", "precio": "10,50€", "alergenos": ["lacteos"] },
+      { "nombre": "Tabla de Queso", "descripcion": "Tabla de Quesos Semi-Curado para compartir.", "precio": "10,50€", "alergenos": ["lacteos"] },
       { "nombre": "Chorizo a la Cerveza", "descripcion": "Chorizo cocinado a fuego lento en cerveza.", "precio": "9,00€", "alergenos": ["sulfitos"] },
       { "nombre": "Jamón", "descripcion": "Ración de jamón serrano de primera calidad.", "precio": "10,50€", "alergenos": ["free-alergenos"] },
       { "nombre": "Fingers de Pollo", "descripcion": "Crujientes tiras de pollo empanadas y fritas.", "precio": "9,50€", "alergenos": ["gluten", "huevos"] },
@@ -92,4 +92,5 @@
     "categoria" : "Contacto",
     "productos": []
   }
+
 ]
