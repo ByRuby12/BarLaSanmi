@@ -44,19 +44,19 @@
   {
     "categoria": "Bocatas",
     "productos": [
-      { "nombre": "Vegetal", "descripcion": "Bocata con lechuga, tomate, atún, huevo cocido y mayonesa. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["huevos", "pescado"] },
-      { "nombre": "Tortilla de patata", "descripcion": "Clásico bocata relleno de tortilla de patata. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["huevos"] },
-      { "nombre": "Pollo", "descripcion": "Bocata de pollo a la plancha. Ingrediente extra +0,60€.", "precio": "5,50€", "alergenos": ["free-alergenos"] },
-      { "nombre": "Bacon", "descripcion": "Bocata de Bacon a la plancha. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["free-alergenos"] },
-      { "nombre": "Lomo", "descripcion": "Bocata de cinta de Lomo a la plancha. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["free-alergenos"] },
-      { "nombre": "Queso", "descripcion": "Bocata relleno de queso fundido. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["lacteos"] },
+      { "nombre": "Vegetal", "descripcion": "Bocata con lechuga, tomate, atún, huevo cocido y mayonesa. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["gluten","huevos", "pescado"] },
+      { "nombre": "Tortilla de patata", "descripcion": "Clásico bocata relleno de tortilla de patata. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Pollo", "descripcion": "Bocata de pollo a la plancha. Ingrediente extra +0,60€.", "precio": "5,50€", "alergenos": ["gluten"] },
+      { "nombre": "Bacon", "descripcion": "Bocata de Bacon a la plancha. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["gluten"] },
+      { "nombre": "Lomo", "descripcion": "Bocata de cinta de Lomo a la plancha. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["gluten"] },
+      { "nombre": "Queso", "descripcion": "Bocata relleno de queso fundido. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["gluten","lacteos"] },
       { "nombre": "Calamares", "descripcion": "Bocata de calamares fritos al estilo clásico. Ingrediente extra +0,60€.", "precio": "6,00€", "alergenos": ["gluten", "moluscos"] },
-      { "nombre": "Jamón", "descripcion": "Bocata de jamón serrano de primera calidad. Ingrediente extra +0,60€.", "precio": "5,50€", "alergenos": ["free-alergenos"] },
-      { "nombre": "Ternera", "descripcion": "Bocata de filete de ternera jugoso. Ingrediente extra +0,60€.", "precio": "6,00€", "alergenos": ["free-alergenos"] },
-      { "nombre": "Tortilla francesa", "descripcion": "Bocata relleno de tortilla francesa. Ingrediente extra +0,60€.", "precio": "4,50€", "alergenos": ["huevos"] },
-      { "nombre": "Hamburguesa", "descripcion": "Bocata de hamburguesa sencilla con carne de vacuno. Ingrediente extra +0,60€.", "precio": "5,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Jamón", "descripcion": "Bocata de jamón serrano de primera calidad. Ingrediente extra +0,60€.", "precio": "5,50€", "alergenos": ["gluten"] },
+      { "nombre": "Ternera", "descripcion": "Bocata de filete de ternera jugoso. Ingrediente extra +0,60€.", "precio": "6,00€", "alergenos": ["gluten"] },
+      { "nombre": "Tortilla francesa", "descripcion": "Bocata relleno de tortilla francesa. Ingrediente extra +0,60€.", "precio": "4,50€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Hamburguesa", "descripcion": "Bocata de hamburguesa sencilla con carne de vacuno. Ingrediente extra +0,60€.", "precio": "5,50€", "alergenos": ["gluten"] },
       { "nombre": "Hamburguesa La Sanmi", "descripcion": "Hamburguesa especial de la casa con pan, carne de vacuno y guarnición completa. Ingrediente extra +0,60€.", "precio": "9,50€", "alergenos": ["gluten", "lacteos", "huevos"] },
-      { "nombre": "Pollo desmechado", "descripcion": "Bocata de pollo desmechado con toque casero. Ingrediente extra +0,60€.", "precio": "6,00€", "alergenos": ["free-alergenos"] }
+      { "nombre": "Pollo desmechado", "descripcion": "Bocata de pollo desmechado con toque casero. Ingrediente extra +0,60€.", "precio": "6,00€", "alergenos": ["gluten"] }
     ]
   },
   {
@@ -95,4 +95,5 @@
   }
 
 ]
+
 
