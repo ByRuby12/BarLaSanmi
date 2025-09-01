@@ -47,7 +47,8 @@
       { "nombre": "Vegetal", "descripcion": "Bocata con lechuga, tomate, atún, huevo cocido y mayonesa. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["huevos", "pescado"] },
       { "nombre": "Tortilla de patata", "descripcion": "Clásico bocata relleno de tortilla de patata. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["huevos"] },
       { "nombre": "Pollo", "descripcion": "Bocata de pollo a la plancha. Ingrediente extra +0,60€.", "precio": "5,50€", "alergenos": ["free-alergenos"] },
-      { "nombre": "Lomo & Bacon", "descripcion": "Bocata contundente con cinta de lomo y bacon a la plancha. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Bacon", "descripcion": "Bocata de Bacon a la plancha. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Lomo", "descripcion": "Bocata de cinta de Lomo a la plancha. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["free-alergenos"] },
       { "nombre": "Queso", "descripcion": "Bocata relleno de queso fundido. Ingrediente extra +0,60€.", "precio": "5,00€", "alergenos": ["lacteos"] },
       { "nombre": "Calamares", "descripcion": "Bocata de calamares fritos al estilo clásico. Ingrediente extra +0,60€.", "precio": "6,00€", "alergenos": ["gluten", "moluscos"] },
       { "nombre": "Jamón", "descripcion": "Bocata de jamón serrano de primera calidad. Ingrediente extra +0,60€.", "precio": "5,50€", "alergenos": ["free-alergenos"] },
@@ -94,3 +95,4 @@
   }
 
 ]
+
