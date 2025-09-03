@@ -22,6 +22,13 @@
     ]
   },
   {
+     "categoria": "Hamburguesas",
+     "productos": [
+    { "nombre": "Hamburguesa Normal", "descripcion": "Hamburguesa con lechuga, tomate, carne de vacuno, queso fundido y bacon en pan crujiente.", "precio": "5,50€", "alergenos": ["gluten", "lacteos"] },
+    { "nombre": "Hamburguesa Especial", "descripcion": "Hamburguesa doble de carne de vacuno con lechuga, tomate, bacon, queso, huevo y patatas en pan crujiente.", "precio": "9,50€", "alergenos": ["gluten", "lacteos", "huevos"] }
+  ]
+  },
+  {
     "categoria": "Raciones",
     "productos": [
       { "nombre": "Bravas - Braviolis", "descripcion": "Crujientes patatas acompañadas de salsa brava casera o alioli.", "precio": "6,50€", "alergenos": ["sulfitos"] },
@@ -38,7 +45,9 @@
       { "nombre": "Lacón", "descripcion": "Ración de lacón gallego tierno acompañado con pimentón y aceite.", "precio": "11,00€", "alergenos": ["free-alergenos"] },
       { "nombre": "Chopitos", "descripcion": "Chopitos fritos al estilo tradicional.", "precio": "10,00€", "alergenos": ["moluscos", "gluten"] },
       { "nombre": "Calamares a la romana", "descripcion": "Calamares rebozados y fritos, crujientes por fuera y tiernos por dentro.", "precio": "11,00€", "alergenos": ["gluten", "moluscos"] },
-      { "nombre": "Rabas de Calamar", "descripcion": "Tiras de calamar fritas con rebozado ligero.", "precio": "10,00€", "alergenos": ["gluten", "moluscos"] }
+      { "nombre": "Rabas de Calamar", "descripcion": "Tiras de calamar fritas con rebozado ligero.", "precio": "10,00€", "alergenos": ["gluten", "moluscos"] },
+      { "nombre": "8 Mini Hamburguesas", "descripcion": "Mini hamburguesas de carne de vacuno servidas en panecillo tierno.", "precio": "9,50€", "alergenos": ["gluten", "lacteos"] },
+      { "nombre": "8 Nuggets", "descripcion": "Crujientes nuggets de pollo empanados y fritos.", "precio": "9,00€", "alergenos": ["gluten", "huevos"] }
     ]
   },
   {
@@ -95,5 +104,6 @@
   }
 
 ]
+
 
 
